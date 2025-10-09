@@ -8,7 +8,7 @@
 - Passionate about robotics, AI systems, embedded computing, and cybersecurity.
 - Deputy Coordinator @ Cybersecurity Club IITM (past) • Member @ Cybersecurity Guild IITM.
 - Experience with AI-powered apps (Flutter), full-stack web (MERN), local AI pipelines (n8n, LangChain).
-- Active in competitive programming and CTF challenges (reverse engineering, binary exploitation, cryptography).
+- Active in competitive programming and CTF challenges (reverse engineering, binary and web exploitation, cryptography).
 - Also engaged in real-world autonomous systems through an early-stage startup initiative. 🚀
 
 ---
