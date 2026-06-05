@@ -6,7 +6,7 @@
 
 - Working on improving autonomous mobile robot navigation using reinforcement learning and neuromorphic computing.
 - Passionate about robotics, AI systems, embedded computing, and cybersecurity.
-- Deputy Coordinator @ Cybersecurity Club IITM (past) • Member @ Cybersecurity Guild IITM.
+- Deputy Coordinator @ Cybersecurity Club IITM (past) 
 - Experience with AI-powered apps (Flutter), full-stack web (MERN), local AI pipelines (n8n, LangChain).
 - Active in competitive programming and CTF challenges (reverse engineering, binary and web exploitation, cryptography).
 - Also engaged in real-world autonomous systems through an early-stage startup initiative. 🚀
