@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Sachin P!](#)
 
-## Project Co-Lead @ IBot Club IITM | EE Undergrad '28 @ IIT Madras
+## Club Head @ IBot Club IITM | EE Undergrad '28 @ IIT Madras
 
 ---
 
@@ -48,7 +48,8 @@
 ### 🚀 Some Projects
 
 - [**Florafix**](https://github.com/falconspy6015/Florafix) — AI-powered plant disease diagnosis app (Flutter)
-- [**IBot Project**](#) — RL + neuromorphic computing for autonomous robot navigation (Incoming)
+- [**Pathblazers**](https://github.com/Falconspy6015/PathBlazers) — RL + neuromorphic computing for autonomous robot navigation
+- [**Eternal**](hhttps://github.com/Falconspy6015/Eternal) — Interiit PS for warehouse robot inventory auditing challenge
 - [**Web-based Chat App**](https://github.com/falconspy6015/chat-frontend) — Full-stack chat app (Node.js + React)
 
 ---
