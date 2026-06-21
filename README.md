@@ -49,7 +49,7 @@
 
 - [**Florafix**](https://github.com/falconspy6015/Florafix) — AI-powered plant disease diagnosis app (Flutter)
 - [**Pathblazers**](https://github.com/Falconspy6015/PathBlazers) — RL + neuromorphic computing for autonomous robot navigation
-- [**Eternal**](hhttps://github.com/Falconspy6015/Eternal) — Interiit PS for warehouse robot inventory auditing challenge
+- [**Eternal**](https://github.com/Falconspy6015/Eternal) — Interiit PS for warehouse robot inventory auditing challenge
 - [**Web-based Chat App**](https://github.com/falconspy6015/chat-frontend) — Full-stack chat app (Node.js + React)
 
 ---
